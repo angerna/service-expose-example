@@ -14,3 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ServiceExposeExample"
 include ':app'
+include ':expose-annotation'
+include ':expose-processor'
+include ':sayhello'
+include ':module-a'
